@@ -5,3 +5,7 @@ see [Torsten Grust, 1997, *The Construction of an SASL-Compiler*](http://kops.un
 
 Another implementation is here
 https://github.com/adriantofan/sasl-compiler
+
+### Current state of the project.
+
+Only the lexer is written now because, how to write a parser in a right way, I do not know yet.
