@@ -8,4 +8,4 @@ https://github.com/adriantofan/sasl-compiler
 
 ### Current state of the project.
 
-Only the lexer is written now. How to write a parser in a right way I do not know yet.
+Only the lexer is written now. How to write a parser in a right way I don't know yet.
